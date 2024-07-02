@@ -1,0 +1,39 @@
+.atas{
+    margin-top: 70px;
+    line-height: 40%;
+    text-align: center;
+}
+
+.gambar{
+    float: right;
+    padding: 20px;
+}
+
+.gambar2{
+    float: left;
+    padding: 20px;
+}
+
+.bawahgaris{
+    text-align: center;
+    line-height: 40%;
+}
+
+.ttd{
+    float: right;
+}
+
+.ttd2{
+    float: left;
+}
+
+.ttd3{
+    float: central;
+
+}
+
+.bulan{
+    margin-top: 0px;
+    line-height: 50%;
+    text-align: left;
+}
